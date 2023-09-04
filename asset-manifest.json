@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-oracle-dashboard/static/css/main.dac1e6c6.css",
+    "main.js": "/my-oracle-dashboard/static/js/main.86951f56.js",
+    "static/js/787.7514c6ca.chunk.js": "/my-oracle-dashboard/static/js/787.7514c6ca.chunk.js",
+    "index.html": "/my-oracle-dashboard/index.html",
+    "main.dac1e6c6.css.map": "/my-oracle-dashboard/static/css/main.dac1e6c6.css.map",
+    "main.86951f56.js.map": "/my-oracle-dashboard/static/js/main.86951f56.js.map",
+    "787.7514c6ca.chunk.js.map": "/my-oracle-dashboard/static/js/787.7514c6ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac1e6c6.css",
+    "static/js/main.86951f56.js"
+  ]
+}
